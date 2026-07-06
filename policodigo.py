@@ -88,7 +88,7 @@ if enviado:
         calcular_puntos(p11, ["Quién busca actividades para divertirse", "Quien solo se guía por sus acompañantes", "Quien organiza el itinerario y presupuestos"]) +
         calcular_puntos(p12, ["Algo inesperado y gracioso", "Algo útil", "Algo significativo y sentimental"]) +
         calcular_puntos(p13, ["Intento hacerlo reír", "Le doy consejos y soluciones", "Lo escucho y le doy apoyo emocional"]) +
-        calcular_puntos(p14, ["Lego justo a la hora", "Llego tarde", "Siempre llego antes de tiempo"]) +
+        calcular_puntos(p14, ["Llego justo a la hora", "Llego tarde", "Siempre llego antes de tiempo"]) +
         calcular_puntos(p15, ["Tiktok", "Instagram", "Twitter"]) +
         calcular_puntos(p16, ["Huyo", "Se lo digo de frente", "Me pongo nervios@"]) +
         calcular_puntos(p17, ["Reggeaton", "Rock", "Pop"]) +
