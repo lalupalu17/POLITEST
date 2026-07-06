@@ -304,8 +304,3 @@ elif 82 < suma <= 105:
 
 print("FIN")
 
-"""#8
-Reviso que el código tiene una idea clara y entretenida: propone un test de personalidad con 12 preguntas, suma las respuestas y entrega un resultado final con descripción e imagen. Valoro que las preguntas estén ordenadas, que las alternativas sean comprensibles y que se haya intentado complementar el resultado con imágenes, lo cual mejora la presentación del proyecto. Sin embargo, el programa tiene errores importantes que pueden impedir que funcione. Primero, se define la imagen como `imagen_leslie`, pero luego se usa `imagen_less`, por lo que el código puede fallar con un error de variable no definida. Además, las rutas de las imágenes empiezan con `/`, lo que puede causar problemas si los archivos no están exactamente en esa ubicación. También el caso en que la suma sea exactamente 12 no recibe ningún resultado, aunque es un puntaje posible. Otro aspecto a mejorar es que no se validan las respuestas del usuario: si escribe texto o un número fuera de 1 a 3, el programa puede fallar o dar un resultado incorrecto. En general, considero que la propuesta es creativa y está bastante desarrollada en contenido, pero necesita corregir errores de variables, rutas de archivos y validación para funcionar correctamente de principio a fin.
-
-"""
-
