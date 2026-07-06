@@ -1,6 +1,0 @@
-[theme]
-primaryColor = "#86CDEB"          # El azul para los detalles
-backgroundColor = "#FAFAF0"       # El fondo cremita de la pantalla
-secondaryBackgroundColor = "#86CDEB" # El azul para las cajitas de preguntas
-textColor = "#000000"              # El texto en color negro
-font = "sans serif"               # Letra limpia y fácil de leer
