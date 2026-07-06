@@ -46,7 +46,7 @@ with st.form("politest_form"):
     p11 = st.radio("11) ¿Qué rol tomas en los viajes?", ["Quién busca actividades para divertirse", "Quien solo se guía por sus acompañantes", "Quien organiza el itinerario y presupuestos"])
     p12 = st.radio("12) ¿Qué regalo prefieres recibir?", ["Algo inesperado y gracioso", "Algo útil", "Algo significativo y sentimental"])
     p13 = st.radio("13) ¿Qué haces cuando alguien te cuenta un problema?", ["Intento hacerlo reír", "Le doy consejos y soluciones", "Lo escucho y le doy apoyo emocional"])
-    p14 = st.radio("14) ¿Qué tan puntuable eres?", ["Lego justo a la hora", "Llego tarde", "Siempre llego antes de tiempo"])
+    p14 = st.radio("14) ¿Qué tan puntual eres?", ["Llego justo a la hora", "Llego tarde", "Siempre llego antes de tiempo"])
     p15 = st.radio("15) ¿Qué red social utilizas más?", ["Tiktok", "Instagram", "Twitter"])
     p16 = st.radio("16) Cuando te gusta alguien...", ["Huyo", "Se lo digo de frente", "Me pongo nervios@"])
     p17 = st.radio("17) ¿Qué genero musical prefieres?", ["Reggeaton", "Rock", "Pop"])
