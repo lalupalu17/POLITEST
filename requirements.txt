@@ -1,0 +1,6 @@
+# Requerimientos para PoliTest Streamlit
+# Este archivo define las librerías necesarias para ejecutar la aplicación en Streamlit Cloud.
+
+streamlit
+requests
+Pillow
