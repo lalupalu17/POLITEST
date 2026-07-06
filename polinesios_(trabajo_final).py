@@ -7,16 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1J8A0mZ3P4JBOG2AXYDc2bJepQXqxKMok
 """
 
-from PIL import Image
-
-# Abre la imagen indicando la ruta del archivo
-imagen_karen = Image.open("/karenpolinesio.jpg")
-
-from PIL import Image
-
-# Abre la imagen indicando la ruta del archivo
-imagen_leslie = Image.open("/lesliepolinesia.jpg")
-
 #Hacemos una función para validar que las respuestas sí sean del 1 al 3
 def pedir_respuesta():
   while True:
