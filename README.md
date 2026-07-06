@@ -1,4 +1,4 @@
-## README: PoliTest - Descubre Qué Polinesio Eres
+## PoliTest - Descubre Qué Polinesio Eres
 
 ### Descripción del Proyecto
 Este es un divertido test de personalidad interactivo que te ayuda a descubrir cuál de los famosos Polinesios (Rafael, Karen o Lesslie) resuena más con tu forma de ser. A través de una serie de 35 preguntas con opciones múltiples, el programa calcula un puntaje basado en tus respuestas y te presenta un resultado personalizado. Cada resultado incluye una descripción detallada de la personalidad del Polinesio asignado y una imagen representativa.
